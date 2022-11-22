@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sudden Death Battleship v1
+</name>
+</assembly>
+<members>
+<member name="T:Sudden_Death_Battleship_v1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sudden_Death_Battleship_v1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sudden_Death_Battleship_v1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Sudden_Death_Battleship_v1.Module1.resetboard">
+ <summary>
+ Sets all cells in the board to cellstate.empty
+ </summary>
+</member>
+<member name="M:Sudden_Death_Battleship_v1.Module1.PlaceComputerShip">
+ <summary>
+ Selects a random int from 0 to rows -1 and a random int from cols-1 to
+ place a computer ship
+ </summary>
+</member>
+<member name="M:Sudden_Death_Battleship_v1.Module1.PrintBoard">
+ <summary>
+ prints board
+ </summary>
+</member>
+<member name="M:Sudden_Death_Battleship_v1.Module1.GetUserInput(System.String,System.Int32)">
+ <summary>
+ repeats prompt to the user until a number between 0 and max (inclusive) is given
+ return that number
+ </summary>
+ <param name="prompt"></param>
+ <param name="max"></param>
+ <returns>an int between 0 and max</returns>
+</member>
+</members>
+</doc>

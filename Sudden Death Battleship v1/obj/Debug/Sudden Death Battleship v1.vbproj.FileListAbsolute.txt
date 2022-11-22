@@ -1,0 +1,11 @@
+H:\visual basic console\sdbs\Sudden Death Battleship v1\bin\Debug\Sudden Death Battleship v1.exe.config
+H:\visual basic console\sdbs\Sudden Death Battleship v1\bin\Debug\Sudden Death Battleship v1.exe
+H:\visual basic console\sdbs\Sudden Death Battleship v1\bin\Debug\Sudden Death Battleship v1.pdb
+H:\visual basic console\sdbs\Sudden Death Battleship v1\bin\Debug\Sudden Death Battleship v1.xml
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.vbproj.AssemblyReference.cache
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden_Death_Battleship_v1.Resources.resources
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.vbproj.GenerateResource.cache
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.vbproj.CoreCompileInputs.cache
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.exe
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.xml
+H:\visual basic console\sdbs\Sudden Death Battleship v1\obj\Debug\Sudden Death Battleship v1.pdb
